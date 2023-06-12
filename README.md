@@ -1,1 +1,1 @@
-Two or three of the locations are no longer returning temperature info. When I improve the CSS, I'll be address that.
+Check the weather and temp at any of NASA's facilities.
